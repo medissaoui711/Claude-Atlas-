@@ -1,0 +1,7 @@
+{
+  "name": "Claude Atlas",
+  "description": "أطلس كلود: موسوعة تفاعلية وخريطة معرفية بصرية تشرح منظومة Claude Code للمطورين ومهندسي الأوامر وفرق التقنية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
