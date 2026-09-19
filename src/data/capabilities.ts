@@ -799,7 +799,7 @@ tools: [bash, grep, file_view]
       'لا تشغل أوامر طويلة غير مراقبة دون وضع سقف أقصى للوقت والتكلفة (Timeouts & Budgets)',
     ],
     prerequisites: ['استخدام الطرفية المتقدم ومحررات الأكواد', 'معرفة بـ CI/CD YAML'],
-    relatedNodeIds: ['mcp', 'files_folders', 'github', 'workflows'],
+    relatedNodeIds: ['mcp', 'files_folders', 'github', 'projects'],
     learningPathIds: ['p2-workflows', 'p3-advanced'],
     architectureDiagram: {
       inputs: ['حدث إنشاء Pull Request في GitHub'],
